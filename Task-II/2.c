@@ -1,7 +1,6 @@
 /*Užduotis - Įvesti sveiką skaičių N. Įvesti N sveikų skaičių, kurie sudarys vektorių. Rasti didžiausią atstumą (matuojant elementų pozicijomis) tarp šio vektoriaus ekstremumų. Ekstremumu laikomas toks vektoriaus elementas, iki kurio yra didėjanti seka, o po jo yra mažėjanti seka, arba, atvirkščiai, iki jo yra mažėjanti seka, o po jo yra didėjanti seka. Programa turėtų išvesti elementų numerius ir atstumą tarp jų.
  2 užduotis, 9 variantas
 Studentas - Vadim Čeremisinov
-LSP numeris - 2110545
 VU el.paštas - vadim.ceremisinov@mif.stud.vu.lt
 */
 
