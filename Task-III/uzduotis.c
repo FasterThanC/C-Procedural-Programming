@@ -5,8 +5,8 @@ VU paštas: vadim.ceremisinov@mif.stud.vu.lt
 */
 
 
-//Ši programa duotame tekste pasikartojančiu vienodųs simbolius pakeičia simboliu $.
-//Ir skaičiumi buvusių simbolių.
+//Ši programa duotame tekste pasikartojančius vienodus simbolius pakeičia simboliu $ ir skaičiumi buvusių simbolių.
+
 #include <stdio.h>
 #include "visos.h"
 
