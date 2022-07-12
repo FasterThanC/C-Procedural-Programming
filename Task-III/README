@@ -1,1 +1,1 @@
-p
+This program replaces repeated identical characters in the given text with the $ character and the number of previous characters.
