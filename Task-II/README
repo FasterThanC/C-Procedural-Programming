@@ -1,1 +1,1 @@
-program
+Enter an integer N. Enter N integers that will form a vector. Find the maximum distance (measured in element positions) between the extrema of this vector. An extremum is a vector element up to which there is an increasing sequence and after there is a decreasing sequence, or, conversely, before it there is a decreasing sequence and after it there is an increasing sequence. The program should output the numbers of these elements and the distance between them.
