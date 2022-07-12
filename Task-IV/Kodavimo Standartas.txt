@@ -1,0 +1,29 @@
+1 variantas 4 užduotis
+Kodavimo standartas:
+1) Kintamųjų vardai negali prasidėti skaičiumi;
+   Blogas pavyzdys: int 5elementas
+   Geras pavyzdys:  int elementas5
+2) Jeigu kintamojo pavadinimas susideda iš kelių žodžių, tuomet jie turi būti atskirti tarpusavyje. Jų išskyrimas gali būti padarytas, atskiriant juos didžiosiomis raidėmis.
+    Blogas pavyzdys: int elementonumeris 
+    Geras pavyzdys:  int elementoNumeris
+3) Jei funkcijos pavadinimas susideda iš kelių žodžių, tuomet jie turi būti atskirti tarpusavyje. Jų išskyrimas gali būti padarytas, atskiriant juos didžiosiomis raidėmis.
+    Blogas pavyzdys: void funkcijaskaiciuojantiraides
+    Geras pavyzdys:  void funkcijaSkaiciuojantiRaides
+4) Visi kintamieji privalo turėti prasmingus vardus
+    Blogas pavyzdys: int to5
+    Geras pavyzyds:  int elementNr5
+5) Ciklų ir sąlygų veiksmai yra aprašomi riestiniuose skliaustuose, nepriklausomai nuo to, ar viduje yra vienas, ar daugiau veiksmų.
+    Blogas pavyzdys: while (number > 5)
+                          printf("gerai\n");
+    Geras pavyzdys:  while (number > 5)
+        		{
+            	          printf("gerai\n);
+        		}
+6) Komentarai yra rašomi tik būtiniausiais atvejais, kodo patikslinimo reikmėms, tačiau jeigu nebūtina, stengtis komentarų nerašyti:
+    Blogas pavyzdys: i++; //prie i prideda viena
+        	     x = x + 5 //prie x prideda 5
+                     while (x > 5)//vykdosi, kol x yra daugiau uz 5
+    Geras pavyzdys: (x < 0) -x : x; //funkcija grazina teigiama skaiciu
+7) Kodas rašomas tvarkingai struktūrizuotas, naudojami tab, tarpai ir kitos priemonės, kurios padaro kodą skaitomesnį ir suprantamesnį;
+Stengiamasi atskirti atskiras logines dalis, jos yra paslenkamos, kad būtų lengviau suprasti kodą;
+8) Stengiamasi apgalvoti visus ribinius variantus, kodas turi būti atsparus klaidoms;
