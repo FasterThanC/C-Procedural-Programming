@@ -1,1 +1,1 @@
-program
+The Task - Enter a sequence of integers, the end of which is marked with the number 0. Output the number of integers whose sum of digits is even.
