@@ -1,6 +1,6 @@
 /*Užduotis - Įvesti sveikų skaičių seką, kurios pabaiga žymima skaičiumi 0. Išvesti narių, kurių skaitmenų suma lyginė, skaičių.
  1 užduotis, 2 variantas
-LSP numeris - 2110545
+Studentas - Vadim Čeremisinov
 VU el.paštas - vadim.ceremisinov@mif.stud.vu.lt
 */
 
