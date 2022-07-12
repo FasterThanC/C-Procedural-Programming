@@ -1,6 +1,5 @@
 /*
 Studentas - Vadim Čeremisinov
-LSP numeris - 2110545
 VU paštas: vadim.ceremisinov@mif.stud.vu.lt
 3 užduotis 7 variantas
 */
